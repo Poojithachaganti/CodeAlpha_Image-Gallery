@@ -48,7 +48,7 @@ Change layout, borders, and effects in CSS
 Add animations or keyboard navigation if desired
 
 📝 Author
-[Your Name]
+[Chaganti Poojitha]
 Frontend Development Intern @ CodeAlpha
 
 📌 Submission Tips
